@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VGP320_Week01", "VGP320_Notes\VGP320_Notes.vcxproj", "{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VGP320_Week07", "VGP320_Week07\VGP320_Week07.vcxproj", "{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VGP320_Week08_MYSQL", "VGP320_Week08_MYSQL\VGP320_Week08_MYSQL.vcxproj", "{205A92A3-84C5-44EE-8EE5-3D3CBA847458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Debug|x64.ActiveCfg = Debug|x64
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Debug|x64.Build.0 = Debug|x64
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Debug|x86.Build.0 = Debug|Win32
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Release|x64.ActiveCfg = Release|x64
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Release|x64.Build.0 = Release|x64
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Release|x86.ActiveCfg = Release|Win32
+		{F8BA75D4-8CF3-42EA-BD73-82B9B8BA64EC}.Release|x86.Build.0 = Release|Win32
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Debug|x64.ActiveCfg = Debug|x64
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Debug|x64.Build.0 = Debug|x64
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Debug|x86.Build.0 = Debug|Win32
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Release|x64.ActiveCfg = Release|x64
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Release|x64.Build.0 = Release|x64
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Release|x86.ActiveCfg = Release|Win32
+		{762F19A9-3B08-4BF6-BB46-D1CADE731B2C}.Release|x86.Build.0 = Release|Win32
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Debug|x64.ActiveCfg = Debug|x64
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Debug|x64.Build.0 = Debug|x64
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Debug|x86.ActiveCfg = Debug|Win32
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Debug|x86.Build.0 = Debug|Win32
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Release|x64.ActiveCfg = Release|x64
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Release|x64.Build.0 = Release|x64
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Release|x86.ActiveCfg = Release|Win32
+		{205A92A3-84C5-44EE-8EE5-3D3CBA847458}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B45F19C-9916-42C6-AB89-A171794BB749}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/juanfracocastillo
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VGP320_Notes\\VGP320_Notes.vcxproj
+		SccProjectName1 = VGP320_Notes
+		SccLocalPath1 = VGP320_Notes
+		SccProjectUniqueName2 = VGP320_Week07\\VGP320_Week07.vcxproj
+		SccProjectName2 = VGP320_Week07
+		SccLocalPath2 = VGP320_Week07
+		SccProjectUniqueName3 = VGP320_Week08_MYSQL\\VGP320_Week08_MYSQL.vcxproj
+		SccProjectName3 = VGP320_Week08_MYSQL
+		SccLocalPath3 = VGP320_Week08_MYSQL
+	EndGlobalSection
+EndGlobal
